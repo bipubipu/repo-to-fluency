@@ -20,7 +20,7 @@ It's language-agnostic — built for Python originally but written to generalize
 
 ### Claude Code
 ```bash
-git clone https://github.com/<your-username>/repo-to-fluency.git ~/.claude/skills/repo-to-fluency
+git clone https://github.com/bipubipu/repo-to-fluency.git
 ```
 (Use `.claude/skills/` inside a specific project instead of `~/.claude/skills/` if you only want it scoped to that repo.) Start a new session — ask "what skills do you have available?" to confirm it loaded.
 
